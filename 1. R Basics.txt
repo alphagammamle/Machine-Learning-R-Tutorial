@@ -33,7 +33,7 @@ var(y)
 sqrt(var(y))
 sd(y)
 
-# Graphics
+# Graphics Basics
 
 x=rnorm(100)
 y=rnorm(100)
