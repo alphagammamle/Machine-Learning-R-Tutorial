@@ -14,7 +14,7 @@ ls()
 rm(x,y)
 ls()
 rm(list=ls())
-?matrix
+?matrix # get help
 x=matrix(data=c(1,2,3,4), nrow=2, ncol=2)
 x
 x=matrix(c(1,2,3,4),2,2)
