@@ -1,7 +1,7 @@
 # Chapter 3 Lab: Linear Regression
 
 library(MASS)
-library(ISLR)
+library(ISLR) # a library from the book
 
 # Simple Linear Regression
 
