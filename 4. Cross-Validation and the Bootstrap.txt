@@ -1,6 +1,6 @@
 # Chaper 5 Lab: Cross-Validation and the Bootstrap
 
-# The Validation Set Approach
+# The Validation Set Approach （simple）
 
 library(ISLR)
 set.seed(1)
